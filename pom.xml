@@ -15,9 +15,6 @@
         <!-- nacos服务注册中心模块-->
         <module>antblog-nacos</module>
 
-        <!-- 服务治理模块-->
-        <module>antblog-discovery</module>
-
         <!-- 服务监控模块-->
         <module>antblog-monitor</module>
 
